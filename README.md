@@ -25,7 +25,7 @@ usilet elementValue = changedElement.property("value");
 ### UFO drawbacks
 1- There is no button search history.
 2- The search is limited to the a few days from 1st to the 13th.
-3- The countries filter is limited to US and Canada.
+3- The countries filter is limited to US and Canada. 
 ### Recommendation
 - Add a dropdown to choose date, city, state and shape from.
 - Create a link for each event that will give you more details on a different page.
