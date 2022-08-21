@@ -1,0 +1,6 @@
+// create button
+<li>
+                                <button id="filter-btn" type="button" class="bg-dark">
+                                    Filter Table
+                                </button>
+                            </li>
