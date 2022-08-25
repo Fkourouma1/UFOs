@@ -1,5 +1,10 @@
 # Overview of Project
 In this project, we are helping Dana White about in-depth analysis of UFO sightings. She is creating a dynamic table and webpages that users will be using to filter for multiple criteria, publish her work online. In addition to the date, we will add table filters for the city, state, country, and shape.
+
+## Resources
+javascript, HTML, Bootstrap, Visual Code, Browser Edge
+data for table from data.js, index.html
+
 ## Results
 1- We first remove the list (<li></li>) element that creates the button in the index.html file.
 2- We created four more list elements: city, state, country, and shape using this script(example of ):
@@ -21,11 +26,14 @@ usilet elementValue = changedElement.property("value");
 10- We also created a variable for the filtered data that is equal to the data that builds the table. This variable will hold the updated table data based on the user input.
 11- Using the For loop, we look through the filters object and store the data that matches the filter values in the variable.
 12- We finally rebuild the table with the filtered data by passing the variable. 
+
 ## Summary
 ### UFO drawbacks
-1- There is no button search history.
-2- The search is limited to the a few days from 1st to the 13th.
-3- The countries filter is limited to US and Canada. 
+We have limited data available with data from countries like US and Canada only.
+The UFO sightings are pretty old and from the year 2010, that too from first 13 days only.
+There is no clear button to clear the search.
+The search is done by one at a time. 
+
 ### Recommendation
-- Add a dropdown to choose date, city, state and shape from.
-- Create a link for each event that will give you more details on a different page.
+We could have added a chart also for better presentation.
+instead of type in the values, we could have added a drop down and select from the list.
