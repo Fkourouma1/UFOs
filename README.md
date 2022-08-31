@@ -1,5 +1,6 @@
 # Overview of Project
 In this project, we are helping Dana White about in-depth analysis of UFO sightings. She is creating a dynamic table and webpages that users will be using to filter for multiple criteria, publish her work online. In addition to the date, we will add table filters for the city, state, country, and shape.
+Please find all images in the static/images folder
 
 ## Resources
 javascript, HTML, Bootstrap, Visual Code, Browser Edge
