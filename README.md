@@ -6,7 +6,7 @@ javascript, HTML, Bootstrap, Visual Code, Browser Edge
 data for table from data.js, index.html
 
 ## Results
-1- We first remove the list (<li></li>) element that creates the button in the index.html file.
+1- We first remove the list ("li") element that creates the button in the index.html file.
 
 2- We created four more list elements: city, state, country, and shape using this script(example of ):
 <li class ="bg-dark">
