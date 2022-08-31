@@ -55,4 +55,4 @@ We have limited data available with data from countries like US and Canada only.
 
 ### Results
 1- 
-![](images/Country%20Filter.png)
+![](./images/Country%20Filter.png)
