@@ -1,10 +1,12 @@
 # Overview of Project
 In this project, we are helping Dana White about in-depth analysis of UFO sightings. She is creating a dynamic table and webpages that users will be using to filter for multiple criteria, publish her work online. In addition to the date, we will add table filters for the city, state, country, and shape.
-Please find all images in the static/images folder
+
+Please find all images in the static/images folder.
 
 ## Resources
-javascript, HTML, Bootstrap, Visual Code, Browser Edge
-data for table from data.js, index.html
+- javascript, HTML, Bootstrap, Visual Code, Browser Edge
+
+- data for table from data.js, index.html.
 
 ## Results
 1- We first remove the list ("li") element that creates the button in the index.html file.
@@ -13,7 +15,7 @@ data for table from data.js, index.html
 <li class ="bg-dark">
    <label for = "city">Enter City</label>
    <input type="text" placeholder="benton" id="city" />
-</li>
+</li>.
 
 3- Next we created an empty filters variable in the app.py file. This allow us to keep track of all the elements that change when a search is entered. Then, we wrote the code with two functions: updateFilters() and filterTable().
 The updateFilters() function update the filters variable we created.
